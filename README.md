@@ -21,8 +21,8 @@ As you can see there are a lot of great functions to using GitHub and as I am ju
 Although these commands are similar they are used very differently. Clone is used to copy an entire repository while a pull request is updating your machine with what any updates that have been made in GitHub. 
 
 ### 3. Introduce ONE selected “Data Set” from the [awesome-datascience] GitHub with its URL and describe its potential applications and values.
-For my dataset I went to Kaggle and found a dataset interesting to me about NFL Quarterbacks.
-[(https://www.kaggle.com/datasets/datadraco/nfl-quarterback-index)]
+I went to Kaggle and found a [dataset](https://www.kaggle.com/datasets/datadraco/nfl-quarterback-index) interesting to me titled, _NFL Quarterback Index_.
+
 
 This data set has 51 columns and 292 rows. It only goes back to 2000 which doesn't provide as much data as if we went back throughout the entire NFL. However, I believe that this is a good starting point to use since passing changed drastically in the early 2000's. DATADRACO,the author of the dataset told us what the purpose of the dataset was for.
 > Originally created in an attempt to train a neural network that predicts NFL success level of a quarterback at the time of being drafted.
@@ -30,8 +30,8 @@ This data set has 51 columns and 292 rows. It only goes back to 2000 which doesn
 I can think of a few other purposes for this dataset. The original goal was for teams to be able to predict. However, I think we can use the dataset to describe. I think there is enough data to be able to see how well teams have drafted over this span and how well colleges do at getting QBs ready for the NFL. 
 
 ### 4. Introduce ONE selected “free-data-science-book” with its URL and author/institute Explain briefly why you are interested in this book.
-Looking through the lists I chose _Introduction to Machine Learning_ by Alex Smola and S.V.N. Vishwanathan.
-[(https://alex.smola.org/drafts/thebook.pdf)]
+Looking through the lists I chose [_Introduction to Machine Learning_](https://alex.smola.org/drafts/thebook.pdf) by Alex Smola and S.V.N. Vishwanathan.
+
 
 I chose this book because _Machine Learning_ is currently out of my scope of knowledge, but I see it as a checkpoint in my career. All data scientists should thrive to understand and utilize machine learning tools. Of course it is not an end goal for me to understand this book, but personally I will have a great feeling of accomplishment after being able to use machine learning tools. 
 
